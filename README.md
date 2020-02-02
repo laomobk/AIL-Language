@@ -4,4 +4,4 @@
 
 ### 版本 1.0 Beta
 
-' Usage ./ail.py file '
+	 Usage ./ail.py file
