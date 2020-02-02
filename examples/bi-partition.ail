@@ -10,7 +10,6 @@ do
 
 	if f(a) * f(c) < 0 then
 		b = c
-	endif
 	else
 
 		if f(c) == 0 then
